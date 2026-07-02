@@ -1,0 +1,6 @@
+{
+  "name": "MQL5 & MT5 Algo Development Service",
+  "description": "Professional MetaTrader 5 Expert Advisor (EA) development, custom indicator scripting, and manual strategy automation services for serious traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
